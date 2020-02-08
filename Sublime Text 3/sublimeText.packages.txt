@@ -1,0 +1,5 @@
+BracketHighlighter
+Marking Changed Rows
+Material Theme
+Package Control
+Predawn

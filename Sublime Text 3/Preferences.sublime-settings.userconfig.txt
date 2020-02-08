@@ -1,0 +1,35 @@
+{
+    "always_show_minimap_viewport": true,
+    "bold_folder_labels": true,
+    "color_scheme": "Packages/Predawn/predawn.tmTheme",
+    "font_options":
+    [
+        "gray_antialias",
+        "subpixel_antialias"
+    ],
+    "font_size": 10,
+    "ignored_packages":
+    [
+        "Vintage"
+    ],
+    "indent_guide_options":
+    [
+        "draw_normal",
+        "draw_active"
+    ],
+    "line_padding_bottom": 1,
+    "line_padding_top": 1,
+    "material_theme_accent_scrollbars": true,
+    "material_theme_accent_titlebar": true,
+    "material_theme_accent_tomato": true,
+    "overlay_scroll_bars": "enabled",
+    "theme": "Material-Theme.sublime-theme",
+    "translate_tabs_to_spaces": true,
+    "match_brackets":false,
+    "match_brackets_angle":false,
+    "match_brackets_braces":false,
+    "match_brackets_content":false,
+    "match_brackets_square":false,
+    "match_tags":false,
+
+}
