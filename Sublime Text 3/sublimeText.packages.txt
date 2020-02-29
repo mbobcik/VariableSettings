@@ -1,5 +1,11 @@
+Anaconda #Python
+AutoFileName
+Babel #React
 BracketHighlighter
+FTPSync
+MarkdownLivePreview
 Marking Changed Rows
 Material Theme
 Package Control
 Predawn
+SideBarEnhancements
